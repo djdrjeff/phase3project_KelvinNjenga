@@ -6,6 +6,12 @@ This project focuses on analyzing traffic crash data from the City of Chicago to
 ## Dataset
 Source: The dataset is obtained from the City of Chicago's Traffic Crashes dataset.
 
+## NB: To access the Dataset steps below need to be followed
+
+1. On the git repository there is a notepad docuement which has alink to the dataset used for this project.
+2. Click on the link it will take you to a goodle drive folder whjere teh data is residing
+3. The above was done since the data was too big to fit in the git repository.
+
 ## Modeling Process
 
 # Baseline Model: 
