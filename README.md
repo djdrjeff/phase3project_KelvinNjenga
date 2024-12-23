@@ -22,6 +22,7 @@ Features were chosen based on their correlation with the target variable and dom
 Various models, including Logistic Regression, Ridge Classifier, Random Forest, and Gradient Boosting, were trained and evaluated.
 # Hyperparameter Tuning: 
 Hyperparameters were optimized using RandomizedSearchCV to enhance model performance.
+
 # Final Model: 
 Gradient Boosting emerged as the top-performing model, selected based on its accuracy and other evaluation metrics.
 
